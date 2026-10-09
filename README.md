@@ -2,6 +2,12 @@
 
 CDN manifests and release assets for the Ubox Physical Player platform.
 
+## Installing on a new machine
+
+See **[MANUAL-INSTALL.md](MANUAL-INSTALL.md)** — download link, SmartScreen
+handling, sensor config, and the Chrome auto-start options for locked-down
+machines.
+
 ## Manifests
 
 | Component | Manifest | Notes |
